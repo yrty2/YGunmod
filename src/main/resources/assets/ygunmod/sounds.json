@@ -1,0 +1,37 @@
+{
+  "boltclose": {
+    "sounds": [
+      "ygunmod:boltclose"
+    ]
+  },
+  "boltopen": {
+    "sounds": [
+      "ygunmod:boltopen"
+    ]
+  },
+  "garandshoot": {
+    "sounds": [
+      "ygunmod:garandshoot"
+    ]
+  },
+  "riflereload": {
+    "sounds": [
+      "ygunmod:riflereload"
+    ]
+  },
+  "rifle": {
+    "sounds": [
+      "ygunmod:rifle"
+    ]
+  },
+  "battlerifle": {
+    "sounds": [
+      "ygunmod:battlerifle"
+    ]
+  },
+  "bullet_hit": {
+    "sounds": [
+      "ygunmod:bullet_hit"
+    ]
+  }
+}
