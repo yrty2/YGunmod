@@ -19,3 +19,11 @@
 ・前提modとしてGeckolibが必須です
 
 ・現状1.20.1でしか動きません。
+
+・今のところクリエイティブインベントリにアイテムが表示されないのでコマンドで出すか作ってください。
+
+/give @p ygunmod:flintlock_musket
+
+/give @p ygunmod:ballbullet 64
+
+↑例
